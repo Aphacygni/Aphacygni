@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aphacygni
-- 👀 I’m interested in Movies, Technology, Books, Math, Language
+- 👀 I’m interested in Movies, Technology, Books, Math, Language, and sometimes poem
 - 🌱 I’m currently learning Python
 
 <!---
